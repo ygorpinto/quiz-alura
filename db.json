@@ -1,0 +1,30 @@
+{
+  "bg": "https://wallpapercave.com/wp/DHxNgvZ.jpg",
+  "loading": "http://cdn.lowgif.com/full/d81a7b632da03c3b-pokemon-battle-gif-tumblr.gif",
+  "title": "Quiz da Imerção React Alura",
+  "description": "Teste os seus conhecimentos sobre Pokemon.",
+  "badges": [
+    "https://cdn.bulbagarden.net/upload/thumb/d/dd/Boulder_Badge.png/50px-Boulder_Badge.png",
+    "https://cdn.bulbagarden.net/upload/thumb/9/9c/Cascade_Badge.png/50px-Cascade_Badge.png",
+    "https://cdn.bulbagarden.net/upload/thumb/a/a6/Thunder_Badge.png/50px-Thunder_Badge.png",
+    "https://cdn.bulbagarden.net/upload/thumb/b/b5/Rainbow_Badge.png/50px-Rainbow_Badge.png",
+    "https://cdn.bulbagarden.net/upload/thumb/7/7d/Soul_Badge.png/50px-Soul_Badge.png",
+    "https://cdn.bulbagarden.net/upload/thumb/6/6b/Marsh_Badge.png/50px-Marsh_Badge.png",
+    "https://cdn.bulbagarden.net/upload/thumb/1/12/Volcano_Badge.png/50px-Volcano_Badge.png",
+    "https://cdn.bulbagarden.net/upload/thumb/7/78/Earth_Badge.png/50px-Earth_Badge.png"
+  ],
+  "external": [
+    ""
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#061383",
+      "secondary": "#000F5C",
+      "mainBg": "#29305e",
+      "contrastText": "#FFFFFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}
